@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<link rel="stylesheet" href="/lisa {.css">    
+<title>BlackPink</title>
+</head>
+<body>
+  
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid justify-content-start" >
+          <a href="https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A" target="_blank">
+              <img src="https://png.pngitem.com/pimgs/s/215-2151494_png-black-pink-logo-transparent-png.png" href="https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A"  alt="BlackPink logo" height="50">
+           </a>
+        <div class="d-inline-block align-text-top">
+                    <div class="btn-group me-2" href="https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A" role="group" aria-label="First group">
+                      <a href="https://www.instagram.com/roses_are_rosie/" target="_blank">
+                      <button class="Rosé"   type="button" class="btn btn-dark" >Rosé </button>
+                      </a>
+                      <a href="https://www.instagram.com/lalalalisa_m/" target="_blank">
+                      <button class="jennie" type="button" class="btn btn-danger">Lisa</button>
+                      </a>
+                      <a href="https://www.instagram.com/jennierubyjane/" target="_blank">
+                      <button class="Rosé" type="button" class="btn btn-dark">Jennie</button>
+                      </a>
+                      <a href="https://www.instagram.com/sooyaaa__/" target="_blank">
+                      <button class="jennie" type="button" class="btn btn-danger">Jisoo</button>
+                      </a>
+                      <a href="https://www.instagram.com/twicetagram/" target="_blank">
+                      <button class="Rosé" type="button" class="btn btn-dark">Twice</button>   
+                      </a>
+                  </div>
+            </a>
+            
+    
+        </div>
+    
+    </nav>
+    
+   
+    <h1 class="display-1 text-center" style="margin: 2%;"> BlackPink <strong> In Your Area</strong></h1>
+    <div class="w-25 text-center mx-auto" >
+      <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+  
+            <div class="carousel-item active">
+              <img src="https://thejeehanash.files.wordpress.com/2020/07/blackpink-how-you-like-that-lisa-jisoo-jennie-rose-uhdpaper.com-8k-5.2219-wp.thumbnail.jpg?w=914" class="d-block w-100 h-75 " alt="Concepto How You Like Tha">
+            </div>
+            
+            <div class="carousel-item" >
+              <img src="https://i.pinimg.com/originals/50/4b/65/504b652ef42f61c85a9db47477f622d2.gif" class="d-block w-100 h-75 " height="400" alt="Ice Cream">
+            </div>
+            <div class="carousel-item" >
+              <img src="http://images6.fanpop.com/image/photos/43500000/BLACKPINK-Lovesick-Girls-MV-black-pink-43563554-540-290.gif" class="d-block w-100 h-75 "  alt="">
+            </div>
+          </div>
+
+   
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div> 
+    
+    <section>
+      <div class="container text-center" style="margin: 6%;">
+        <div class="row">
+          <div class="col text-center">
+      <h2>BlackPink las divas empoderadas <strong>eso mamona del k-pop</strong></h2>
+      <h3 class="display-3">BlackPink tiene colaboraciones con:</h3>
+      <ol>
+        <ul><h3>Dua Lipa</h3></ul>
+        <ul><h3>Lady Gaga</h3></ul>
+        <ul><h3>Selena Gomez</h3></ul>
+        <ul><h3>Cardi B</h3></ul>
+      </ol>
+      <h3 class="display-4">BlackPink ha ganado 124 premios con 403 nominaciones </h3>
+      <strong>Ganando cosas en:</strong>
+      <div class="container text-center" style="margin: 6%;">
+        <div class="row">
+          <div class="container">
+            <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+              <div class="col">
+                <div  class="Rosé" class="p-3 border bg-light">Corea del Sur</div>
+              </div>
+              <div class="col">
+                <div class="jennie" class="p-3 border bg-light">Japon</div>
+              </div>
+              <div class="col">
+                <div class="Rosé" class="p-3 border bg-light">China</div>
+              </div>
+              <div class="col">
+                <div class="jennie" class="p-3 border bg-light">Fondo de Bikini</div>
+              </div>
+              <div class="col">
+                <div  class="Rosé" class="p-3 border bg-light">Malasia</div>
+              </div>
+              <div class="col">
+                <div class="jennie" class="p-3 border bg-light">Filipina</div>
+              </div>
+              <div class="col">
+                <div  class="Rosé" class="p-3 border bg-light">Pueblo Paleta</div>
+              </div>
+              <div class="col">
+                <div class="jennie" class="p-3 border bg-light">Australia</div>
+              </div>
+              <div class="col">
+                <div class="Rosé" class="p-3 border bg-light">Reino Unido</div>
+              </div>
+              <div class="col">
+                <div class="jennie" class="p-3 border bg-light">Alemania</div>
+              </div>
+              <div class="col">
+                <div  class="Rosé" class="p-3 border bg-light">Hogwarts</div>
+              </div>
+              <div class="col">
+                <div class="jennie" class="p-3 border bg-light">Brazil</div>
+              </div>
+              <div class="col">
+                <div  class="Rosé" class="p-3 border bg-light">Mexico</div>
+              </div>
+              <div class="col">
+                <div class="jennie" class="p-3 border bg-light">Estados Unidos</div>
+              </div>
+              <div class="col">
+                <div  class="Rosé" class="p-3 border bg-light">Jurassic World</div>
+              </div>
+              <div class="col">
+                <div class="jennie" class="p-3 border bg-light">En tu Corazon ❤</div>
+              </div>
+            </div>
+          </div>
+     
+     <h2> <strong>Y todo esto con tan solo 30 temas</strong></h2>
+     <h2 class="display-1 text-center">Integrado por:</h2>
+     <div class="row row-cols-1 row-cols-md-2 g-4">
+      <div class="col">
+        <div class="card">
+          <img src="https://qph.fs.quoracdn.net/main-qimg-27535df521a6ed45c4bee1e44665e91b" class="card-img-top" height="400" alt="150">
+          <div class="card-body">
+            <h5 class="card-title">Jisoo</h5>
+            <p class="card-text">Visual, vocalista y bailarina.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="https://qph.fs.quoracdn.net/main-qimg-9ea3302ba4542809007a11b7068e370a" class="card-img-top" height="400" alt="150">
+          <div class="card-body">
+            <h5 class="card-title">Jennie</h5>
+            <p class="card-text">Rapera, vocalista, bailarina y Sant Boy de Samsung.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="https://i.pinimg.com/originals/04/dc/50/04dc50e9f234a43b01a22fe2d0ad7be6.gif" class="card-img-top" height="400" alt="150">
+          <div class="card-body">
+            <h5 class="card-title">Rosé</h5>
+            <p class="card-text">Vocalista, bailarina y comedora compulsiva hasta de velas.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="https://c.tenor.com/geWajeYoAH8AAAAC/lalisa-manoban.gif" class="card-img-top" height="400" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Lisa</h5>
+            <p class="card-text">Rapera, vocalista y bailarina.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+    <div class="container text-center" style="margin: 1%;">
+      <div class="row">
+          <h4 class="Rosé">Jennie, Rosé y Lisa cuentan con canciones en solitario</h4>
+          <h2 class="lisa">Jennie</h2>
+          <p class="Rosé">SOLO </p>
+          <h2 class="lisa">Rosé</h2>
+          <p class="Rosé">ON THE GROUND, GONE</p>
+          <h2 class="lisa">Lisa</h2>
+          <p class="Rosé">LALISA, MONEY, SG</p>
+          <div class="kuma" class="card border-danger mb-3" style="max-width: 18rem;">
+            <img src="https://64.media.tumblr.com/74df26315036e8a72b7575a19e83040a/1730b4e76f526c3f-1d/s500x750/e78627efec8401f5d751897b5aead52ae2e074ef.gifv" height="170">
+            
+            <div  class="card-body text-dark" class="rounded align-items-center"></div>
+              <h5 class="card-title"></h5>
+              <p class="card-text">Jennie enfermera por siempre en nuestros corazones❤❤.</p>
+            </div>
+            <div class="kuma" class="card border-danger mb-3" style="max-width: 18rem;">
+              <img src="https://img7.yna.co.kr/etc/inner/SP/2020/06/09/ASP20200609003700883_03_i_P4.jpg" height="170">
+              
+              <div  class="card-body text-dark" class="rounded float-end">
+                <h5 class="card-title"></h5>
+                <p class="card-text">Twice❤❤.</p>
+              </div>
+    </div>
+    <section>
+      
+      <div class="container text-center" style="margin: 1%;">
+        <div class="row">
+        <div class="col text-center"> 
+      <h1> ¿Cual de las BlackPink es mas hermosa?</h1>
+       <img src="https://apksos.com/storage/images/com/blackpink_jisoo/funidea_wallpaper/com.blackpink_jisoo.funidea_wallpaper_1.png" class="rounded float-start" height="295" alt="Jisoo">
+      
+       <img src="https://i.discogs.com/-29QbCu5kOfT1iBYTOMiNYDrXso2jXHnqbZVI6JBAlw/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY3NzE5/MDctMTYwMDg2NTQ5/OS01OTExLmpwZWc.jpeg" class="rounded float-end" alt="Jennie">
+         
+       <img src="https://lyricstranslate.com/files/styles/artist/public/fb_img_1627402886370.jpg" class="rounded mx-auto d-block" alt="Rosé">
+
+       <img src="https://pbs.twimg.com/media/ExpNpJjUYAAPL_D.jpg" class="rounded float-start" height="220" alt="Lisa">
+
+       <img src="https://www.nacionrex.com/__export/1622916170086/sites/debate/img/2021/06/05/que-rol-tienen-las-chicas-de-blackpink-y-quien-es-su-lider.jpg_1902800913.jpg" class="rounded float-end" height="220" alt="BlackPink">
+
+       <div class="Rosé"  class="alert alert-danger d-flex align-items-center" role="alert">
+        <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Danger:"><use xlink:href="#exclamation-triangle-fill"/></svg>
+        <div>
+         Que no se te olvide escuchar How You Like That.
+        </div>
+      </div>
+      <div class="jennie" style="margin: 1%;" class="alert alert-danger d-flex align-items-center" role="alert">
+        <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Danger:"><use xlink:href="#exclamation-triangle-fill"/></svg>
+        <div>
+          Tampoco se olviden de Ice Cream.
+        </div>
+      </div>
+      <div class="Rosé" class="alert alert-danger d-flex align-items-center" role="alert">
+        <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Danger:"><use xlink:href="#exclamation-triangle-fill"/></svg>
+        <div>
+          El video de Sour Candy sale el viernes.
+        </div>
+      </div>
+        </div>
+      </div>
+      
+ 
+              <body>
+      
+              
+              
+                  <div class="container">
+                    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+                      <p class="col-md-4 mb-0 text-muted">&copy; 2022 Company, Inc</p>
+                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpacpSp5cgZsBsOzewXQ5OeUVjq6aRfCF6srntzvHL50FYPga6w5wHq4qQl1HUHAqRWMQ&usqp=CAU" heigth="5">
+                  
+                </body>
+          </footer>
+
+
+    
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="../js/index.js"></script>
+    
+</body>
+</html>

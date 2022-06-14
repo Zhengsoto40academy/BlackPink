@@ -198,20 +198,28 @@
               <h5 class="card-title"></h5>
               <p class="card-text">Jennie enfermera por siempre en nuestros corazones❤❤.</p>
             </div>
-            <div class="kuma" class="card border-danger mb-3" style="max-width: 18rem;">
+            <div class="Rosé" class="card border-danger mb-3" style="max-width: 18rem;">
               <img src="https://img7.yna.co.kr/etc/inner/SP/2020/06/09/ASP20200609003700883_03_i_P4.jpg" height="170">
               
               <div  class="card-body text-dark" class="rounded float-end">
                 <h5 class="card-title"></h5>
-                <p class="card-text">Twice❤❤.</p>
+                <p class="paleta" class="card-text">Twice❤❤.</p>
               </div>
+    </div>
+    <div class="kuma" class="card border-danger mb-3" style="max-width: 18rem;">
+      <img src="https://wallpapercave.com/wp/wp10449019.jpg" height="170">
+      
+      <div  class="card-body text-dark" class="rounded float-end">
+        <h5 class="card-title"></h5>
+        <p class="card-text">Aespa❤❤.</p>
+      </div>
     </div>
     <section>
       
       <div class="container text-center" style="margin: 1%;">
-        <div class="row">
+        <div class="row" class="container text-center">
         <div class="col text-center"> 
-      <h1> ¿Cual de las BlackPink es mas hermosa?</h1>
+      <h1> ¿Cual de las Pink es tu favorita?</h1>
        <img src="https://apksos.com/storage/images/com/blackpink_jisoo/funidea_wallpaper/com.blackpink_jisoo.funidea_wallpaper_1.png" class="rounded float-start" height="295" alt="Jisoo">
       
        <img src="https://i.discogs.com/-29QbCu5kOfT1iBYTOMiNYDrXso2jXHnqbZVI6JBAlw/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY3NzE5/MDctMTYwMDg2NTQ5/OS01OTExLmpwZWc.jpeg" class="rounded float-end" alt="Jennie">
